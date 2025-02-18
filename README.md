@@ -1,2 +1,4 @@
-# yu
-程式應用作業
+# Application of progrogamming
+
+# 00 Introduction
+
