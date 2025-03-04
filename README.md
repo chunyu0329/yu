@@ -8,3 +8,4 @@
 [EX01_03](EX01_03_Rock_Paper_Scissors.ipynb)
 [Ex01_04](EX01_04_終極密碼.ipynb)
 [Ex01_05](EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
+[Ex01_06](EX01_06_簡易購物車.ipynb)
