@@ -17,12 +17,18 @@
 
 [EX01_07 美食資訊查詢](EX01_07_美食資訊查詢.ipynb)
 
-#02
+# 02
 [EX02_01 MyChatbot ](EX02_01_MyChatbot.ipynb)
 
 [EX02_02 高雄紅橘線捷運車站位置查詢](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
 
 [EX02_03 Yahoo新聞儲存Google試算表](EX02_03_Yahoo新聞儲存Google試算表.ipynb)
 
+[EX02_04 Download Pokemon Images](EX02_04_Download_Pokemon_Images.ipynb)
 
+[EX02_05 PTT Gossiping](EX02_05_PTT_Gossiping.ipynb)
+
+[EX02_06 開眼電影](EX02_06_開眼電影.ipynb)
+
+[EX02_07 KKDay](EX02_07_KKDay.ipynb)
 
