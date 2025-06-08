@@ -17,7 +17,7 @@
 
 [EX01_07 美食資訊查詢](EX01_07_美食資訊查詢.ipynb)
 
-# 02
+# 02 Web Crawler
 [EX02_01 MyChatbot ](EX02_01_MyChatbot.ipynb)
 
 [EX02_02 高雄紅橘線捷運車站位置查詢](EX02_02_高雄紅橘線捷運車站位置查詢.ipynb)
@@ -32,3 +32,11 @@
 
 [EX02_07 KKDay](EX02_07_KKDay.ipynb)
 
+# 03 Data Analysis
+[EX03_01 公司薪資概況I](EX03_01_公司薪資概況I.ipynb)
+
+[EX03_02 公司薪資概況II](EX03_02_公司薪資概況II.ipynb)
+
+[EX03_03 空氣品質指標(AQI)](EX03_03_空氣品質指標(AQI).ipynb)
+
+[EX03_04 薪情平台](EX03_04_薪情平台.ipynb)
