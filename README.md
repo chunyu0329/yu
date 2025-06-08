@@ -40,3 +40,31 @@
 [EX03_03 空氣品質指標(AQI)](EX03_03_空氣品質指標(AQI).ipynb)
 
 [EX03_04 薪情平台](EX03_04_薪情平台.ipynb)
+
+[EX03_05 台灣股票市場個股每日成交資訊](EX03_05_台灣股票個股每日成交資訊.ipynb)
+
+[EX03_06 出生人口數](EX03_06_出生人口數.ipynb)
+
+[EX03_07 Tips](EX03_07_Tips.ipynb)
+
+# 04 Machine Learning
+[EX04_01 汽車車型數值資料轉換](EX04_01_汽車車型數值資料轉換.ipynb)
+
+[EX04_02 客戶基本資料編碼](EX04_02_客戶基本資料編碼.ipynb)
+
+[EX04_03 客戶分群](EX04_03_客戶分群.ipynb)
+
+[EX04_04 加州房價](EX04_04_加州房價.ipynb)
+
+[EX04_05 辨識鳶尾花](EX04_05_辨識鳶尾花.ipynb)
+
+[EX04_06 ET Today新聞標題分類](EX04_06_ET_Today_新聞標題分類.ipynb)
+
+# 05 Web API
+[EX05_01 Echo Bot](EX05_01_Echo_Bot.ipynb)
+
+[EX05_02 Ask Gemini](EX05_02_Ask_Gemini.ipynb)
+
+[EX05_03 Reply Multi-type Messages](EX05_03_Reply_Multi_type_Messages.ipynb)
+
+[EX05_04 Reply Template Messages](EX05_04_Reply_Template_Messages.ipynb)
